@@ -1,0 +1,10 @@
+# Folders ignoring
+.idea
+.allure
+target
+
+# Files ignoring
+*.iml
+*.jar
+*.war
+*.DS_Store
